@@ -9,6 +9,7 @@
    </a>
    <a href="https://github/Guilherme-Bernardino/PlatformCrafter/downloads">
     <img alt="Total" src="https://img.shields.io/github/downloads/Guilherme-Bernardino/PlatformCrafter/total.svg" />
+
    </a>
    <br />
  </p>
@@ -21,7 +22,7 @@ Meant for unexperienced and experienced game devs that want an easy way to creat
 Guilherme Bernardino
 
 # Documentation
-<a href="https://github.com/user-attachments/files/17230530/PlatformCrafterUserGuide.pdf">Download User Guide</a>
+<a href="https://github.com/user-attachments/files/17230670/PlatformCrafterUserGuide.pdf">Download User Guide</a>
 
 
 # Change Log
