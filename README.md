@@ -3,7 +3,7 @@
 </p>
 <br />
 <p align="center">
- <img src="https://img.shields.io/badge/build-v0.9.10-ffffff" />
+ <img src="https://img.shields.io/badge/build-v1.0.1-ffffff" />
    <a>
     <img alt="Unity 2018.3+" src="https://img.shields.io/badge/unity-2022.3%2B-blue.svg">
    </a>
@@ -27,6 +27,13 @@ Guilherme Bernardino
 
 # Change Log
 All notable changes of the project
+
+## [1.0.1] - 1-10-2024
+### Added
+- Added Platform Crafter to the Unity Custom Packages.
+
+### Fixed
+- Fixed editor icons not loading when on different folders.
 
 ## [0.9.10] - 1-10-2024
 ### Added
