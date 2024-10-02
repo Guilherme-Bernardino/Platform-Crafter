@@ -4,6 +4,9 @@
 <br />
 <p align="center">
  <img src="https://img.shields.io/badge/build-v0.9.10-ffffff" />
+   <a>
+    <img alt="Unity 2018.3+" src="https://img.shields.io/badge/unity-2022.3%2B-blue.svg">
+   </a>
    <a href="https://github/Guilherme-Bernardino/PlatformCrafter/downloads">
     <img alt="Total" src="https://img.shields.io/github/downloads/Guilherme-Bernardino/PlatformCrafter/total.svg" />
    </a>
@@ -18,6 +21,7 @@ Meant for unexperienced and experienced game devs that want an easy way to creat
 Guilherme Bernardino
 
 # Documentation
+<a href="https://github.com/user-attachments/files/17230530/PlatformCrafterUserGuide.pdf">Download User Guide</a>
 
 
 # Change Log
