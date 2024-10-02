@@ -1,8 +1,8 @@
 {
   "name": "com.gb.platformcrafter",
   "displayName": "PlatformCrafter",
-  "version": "0.9.10",
-  "unity": "2022.3.21f1",
+  "version": "1.0.0",
+  "unity": "2022.3",
   "description": "Unity package for 2D platformer and platformer-like games. Meant for unexperienced and experienced game devs that want an easy way to create game experiences.",
   "keywords": [ "platform","testing", "editor" ],
   "category": "",
