@@ -28,14 +28,14 @@ Guilherme Bernardino
 # Change Log
 All notable changes of the project
 
-## [1.0.1] - 1-10-2024
+## [1.0.1] - 02-10-2024
 ### Added
 - Added Platform Crafter to the Unity Custom Packages.
 
 ### Fixed
 - Fixed editor icons not loading when on different folders.
 
-## [0.9.10] - 1-10-2024
+## [0.9.10] - 01-10-2024
 ### Added
 - Added a new Vertical Module Action named WallGrab & Wall Jump, where you can hold a wall or slowly slide and jump from the wall.
 - Added a new Vertical Module state named Wall Jump, that can only ocurr when Wall Grabbing or Ledge Grabbing, perform a unique jump different from the standard jump action.
