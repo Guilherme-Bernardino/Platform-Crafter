@@ -32,9 +32,20 @@ All notable changes of the project
 ### Added
 - Added editor files to most type modules.
 - Added default values to most settings.
+- Added new state transitions in HM Module: in automatic input: 
+  - Walk -> Sprint, Slide, Dash 
+  - Sprint -> Slide, Dash
+- Added new state transitions in VM Module in manual input: 
+  - Wall Jump -> Air Jump
+  - Crouch -> Jump
+- Added new state transitions in VM Module in automatic input:
+  - Jump -> Climbing
+  - Air Jump -> Climbing
+- (Editor) Added a current state info label on each physical module editor view.
 
 ### Fixed
 - Fixed a few minor bugs and refactored some classes.
+- Fixed inactive states of Modules like Interaction, Resource and Inventory not working.
 
 ## [1.0.1] - 02-10-2024
 ### Added
