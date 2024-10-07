@@ -3,7 +3,7 @@
 </p>
 <br />
 <p align="center">
- <img src="https://img.shields.io/badge/build-v1.0.1-ffffff" />
+ <img src="https://img.shields.io/badge/build-v1.0.2-ffffff" />
    <a>
     <img alt="Unity 2018.3+" src="https://img.shields.io/badge/unity-2022.3%2B-blue.svg">
    </a>
@@ -27,6 +27,14 @@ Guilherme Bernardino
 
 # Change Log
 All notable changes of the project
+
+## [1.0.2] - 07-10-2024
+### Added
+- Added editor files to most type modules.
+- Added default values to most settings.
+
+### Fixed
+- Fixed a few minor bugs and refactored some classes.
 
 ## [1.0.1] - 02-10-2024
 ### Added
