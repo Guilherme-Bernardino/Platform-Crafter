@@ -3,7 +3,7 @@
 </p>
 <br />
 <p align="center">
- <img src="https://img.shields.io/badge/build-v1.0.2-ffffff" />
+ <img src="https://img.shields.io/badge/build-v1.0.3-ffffff" />
    <a>
     <img alt="Unity 2018.3+" src="https://img.shields.io/badge/unity-2022.3%2B-blue.svg">
    </a>
@@ -22,11 +22,20 @@ Meant for unexperienced and experienced game devs that want an easy way to creat
 Guilherme Bernardino
 
 # Documentation
-<a href="https://github.com/user-attachments/files/17230670/PlatformCrafterUserGuide.pdf">Download User Guide</a>
+<a href="https://github.com/user-attachments/files/17317172/PlatformCrafterUserGuide.pdf">Download User Guide</a>
 
 
 # Change Log
 All notable changes of the project
+
+## [1.0.3] - 09-10-2024
+### Added
+- Added settings to show gizmos of the ground check boxes of each Physics Module.
+
+### Changed
+- Changed all Type Modules menu path to Platform Crafter's Modular System/Type Module/<Category>/<Module>.
+- Changed component getting to OnEnable in the Modular Brain.
+- Changed isActive state on modules to be active on default.
 
 ## [1.0.2] - 07-10-2024
 ### Added
